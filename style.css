@@ -1,0 +1,25 @@
+.green{
+	background-color: #ccffd3;
+}
+.red{
+	background-color: #ffc9c9;
+}
+ul.list{
+	list-style: square;
+	margin: 0 20px;
+}
+
+.caution-message{
+	background: #fffbe4;
+	padding: 4px;
+}
+
+.danger-message{
+	background: #ffebe8;
+	padding: 4px;
+}
+
+.success-message{
+	background: #e8ffea;
+	padding: 4px;
+}
